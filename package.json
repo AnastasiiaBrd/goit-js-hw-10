@@ -27,7 +27,10 @@
   },
   "dependencies": {
     "@vimeo/player": "^2.16.1",
+    "caniuse-lite": "^1.0.30001280",
+    "lodash.debounce": "^4.0.8",
     "lodash.throttle": "^4.1.1",
+    "notiflix": "^3.2.2",
     "simplelightbox": "^2.9.0"
   }
 }
