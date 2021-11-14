@@ -58,3 +58,5 @@ function showError(error) {
 }
 
 inputSearchBox.addEventListener('input', debounce(showCountry, DEBOUNCE_DELAY));
+
+// main
